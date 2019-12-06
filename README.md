@@ -1,2 +1,0 @@
-#FP
-FPTeam
